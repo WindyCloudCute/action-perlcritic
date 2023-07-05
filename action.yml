@@ -1,6 +1,6 @@
 name: 'GitHub Action for Perl Critic'
 description: 'Run Perl Critic on your codebase.'
-author: Difegue
+author: WindyCloudCute
 branding:
   color: blue
   icon: eye
